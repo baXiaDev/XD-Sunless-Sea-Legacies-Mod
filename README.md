@@ -15,7 +15,7 @@ I’ve included a save file for testing purposes. It includes the three items yo
 1. BACKUP YOUR OWN SAVE FILE!
 2. Download zip file and extract.
 2. Copy "XD-Legacies" folder to "%UserProfile%\AppData\LocalLow\Failbetter Games\Sunless Sea\addon\"
-3. \*If you are testing\* Copy "Autosave.json" to "%UserProfile%\AppData\LocalLow\Failbetter Games\Sunless Sea\saves\"
+3. **If you are testing** Copy "Autosave.json" to "%UserProfile%\AppData\LocalLow\Failbetter Games\Sunless Sea\saves\"
 
 ### New Legacy Items:
 - Deeds to a Steam-Yacht
